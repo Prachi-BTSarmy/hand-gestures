@@ -1,0 +1,56 @@
+.heading{
+    font-size:23px;
+    border-radius :10px;
+    letter-spacing: 10px;
+}
+
+.emoji{
+    font-size:23px;
+}
+
+body{
+    background-size:cover;
+}
+
+p{
+    font-size:20px;
+    color:black;
+}
+
+label{
+    font-size:14px;
+    color:purple;
+    padding:6px;
+    border-radius:10px;
+    background-color:white;
+    margin-left:155px;
+}
+
+#camera{
+border-style: dashed;
+width: 450px;
+height:300px;
+border-color:white;
+margin-left:25px;
+background-color:black;
+border-width:3px;
+
+}
+
+#Snapshot{
+    border-style:dashed;
+    border-width:3px;
+    border-color:white;
+    width:450px;
+    height:300px;
+    margin-right:25px;
+    background-color:black;
+}
+
+#Image_capture{
+    margin-left:165px;
+}
+
+#emotion{
+    margin-left:165px;
+}
